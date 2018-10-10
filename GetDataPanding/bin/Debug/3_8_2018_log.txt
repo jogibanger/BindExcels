@@ -1,0 +1,15 @@
+
+Log Entry : 8:20:32 PM Friday, August 03, 2018
+  :
+  :Start BackUp Scheduler: 8/3/2018 8:20:32 PM
+-------------------------------
+
+Log Entry : 8:22:56 PM Friday, August 03, 2018
+  :
+  :Start BackUp Scheduler: 8/3/2018 8:22:56 PM
+-------------------------------
+
+Log Entry : 8:24:25 PM Friday, August 03, 2018
+  :
+  :Start BackUp Scheduler: 8/3/2018 8:24:25 PM
+-------------------------------

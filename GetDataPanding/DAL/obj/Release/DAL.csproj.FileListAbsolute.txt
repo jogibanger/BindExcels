@@ -1,0 +1,11 @@
+F:\VasansiartsAPI-master\DAL\bin\Release\DAL.dll.config
+F:\VasansiartsAPI-master\DAL\bin\Release\DAL.dll
+F:\VasansiartsAPI-master\DAL\bin\Release\DAL.pdb
+F:\VasansiartsAPI-master\DAL\bin\Release\EntityFramework.dll
+F:\VasansiartsAPI-master\DAL\bin\Release\EntityFramework.SqlServer.dll
+F:\VasansiartsAPI-master\DAL\bin\Release\INI.dll
+F:\VasansiartsAPI-master\DAL\bin\Release\EntityFramework.xml
+F:\VasansiartsAPI-master\DAL\bin\Release\EntityFramework.SqlServer.xml
+F:\VasansiartsAPI-master\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+F:\VasansiartsAPI-master\DAL\obj\Release\DAL.dll
+F:\VasansiartsAPI-master\DAL\obj\Release\DAL.pdb

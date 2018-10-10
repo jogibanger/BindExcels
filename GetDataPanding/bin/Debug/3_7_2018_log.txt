@@ -1,0 +1,75 @@
+
+Log Entry : 8:35:55 PM Tuesday, July 3, 2018
+  :
+  :Start BackUp Scheduler: 7/3/2018 8:35:55 PM
+-------------------------------
+
+Log Entry : 8:37:04 PM Tuesday, July 3, 2018
+  :
+  :Start BackUp Scheduler: 7/3/2018 8:37:04 PM
+-------------------------------
+
+Log Entry : 8:54:12 PM Tuesday, July 3, 2018
+  :
+  :Start BackUp Scheduler: 7/3/2018 8:54:12 PM
+-------------------------------
+
+Log Entry : 8:54:18 PM Tuesday, July 3, 2018
+  :
+  :Complete BackUp Scheduler: 7/3/2018 8:54:18 PM
+-------------------------------
+
+Log Entry : 8:55:53 PM Tuesday, July 3, 2018
+  :
+  :Start BackUp Scheduler: 7/3/2018 8:55:53 PM
+-------------------------------
+
+Log Entry : 8:58:38 PM Tuesday, July 3, 2018
+  :
+  :Start BackUp Scheduler: 7/3/2018 8:58:38 PM
+-------------------------------
+
+Log Entry : 8:58:49 PM Tuesday, July 3, 2018
+  :
+  :Start BackUp Scheduler: 7/3/2018 8:58:49 PM
+-------------------------------
+
+Log Entry : 9:02:42 PM Tuesday, July 3, 2018
+  :
+  :Start BackUp Scheduler: 7/3/2018 9:02:42 PM
+-------------------------------
+
+Log Entry : 9:09:26 PM Tuesday, July 3, 2018
+  :
+  :Start BackUp Scheduler: 7/3/2018 9:09:26 PM
+-------------------------------
+
+Log Entry : 9:20:21 PM Tuesday, July 3, 2018
+  :
+  :Start BackUp Scheduler: 7/3/2018 9:20:21 PM
+-------------------------------
+
+Log Entry : 9:21:02 PM Tuesday, July 3, 2018
+  :
+  :Start BackUp Scheduler: 7/3/2018 9:21:02 PM
+-------------------------------
+
+Log Entry : 9:23:03 PM Tuesday, July 3, 2018
+  :
+  :Start BackUp Scheduler: 7/3/2018 9:23:03 PM
+-------------------------------
+
+Log Entry : 9:24:37 PM Tuesday, July 3, 2018
+  :
+  :Start BackUp Scheduler: 7/3/2018 9:24:37 PM
+-------------------------------
+
+Log Entry : 11:24:35 PM Tuesday, July 3, 2018
+  :
+  :Start BackUp Scheduler: 03-Jul-18 11:24:35 PM
+-------------------------------
+
+Log Entry : 11:31:58 PM Tuesday, July 3, 2018
+  :
+  :Start BackUp Scheduler: 03-Jul-18 11:31:58 PM
+-------------------------------

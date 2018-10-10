@@ -1,0 +1,40 @@
+
+Log Entry : 12:05:07 AM Wednesday, June 27, 2018
+  :
+  :Start BackUp Scheduler: 6/27/2018 12:05:07 AM
+-------------------------------
+
+Log Entry : 12:05:58 AM Wednesday, June 27, 2018
+  :
+  :Complete BackUp Scheduler: 6/27/2018 12:05:58 AM
+-------------------------------
+
+Log Entry : 12:12:22 AM Wednesday, June 27, 2018
+  :
+  :Start BackUp Scheduler: 6/27/2018 12:12:22 AM
+-------------------------------
+
+Log Entry : 12:13:07 AM Wednesday, June 27, 2018
+  :
+  :Complete BackUp Scheduler: 6/27/2018 12:13:07 AM
+-------------------------------
+
+Log Entry : 12:15:20 AM Wednesday, June 27, 2018
+  :
+  :Start BackUp Scheduler: 6/27/2018 12:15:20 AM
+-------------------------------
+
+Log Entry : 12:16:06 AM Wednesday, June 27, 2018
+  :
+  :Complete BackUp Scheduler: 6/27/2018 12:16:06 AM
+-------------------------------
+
+Log Entry : 12:20:41 AM Wednesday, June 27, 2018
+  :
+  :Start BackUp Scheduler: 6/27/2018 12:20:41 AM
+-------------------------------
+
+Log Entry : 12:21:20 AM Wednesday, June 27, 2018
+  :
+  :Complete BackUp Scheduler: 6/27/2018 12:21:20 AM
+-------------------------------

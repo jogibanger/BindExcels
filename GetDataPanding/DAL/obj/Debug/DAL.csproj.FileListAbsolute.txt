@@ -1,0 +1,32 @@
+D:\Projects\VasansiartsAPI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Projects\VasansiartsAPI\DAL\bin\Debug\DAL.dll.config
+D:\Projects\VasansiartsAPI\DAL\bin\Debug\DAL.dll
+D:\Projects\VasansiartsAPI\DAL\bin\Debug\DAL.pdb
+D:\Projects\VasansiartsAPI\DAL\bin\Debug\BAL.dll
+D:\Projects\VasansiartsAPI\DAL\bin\Debug\Common.dll
+D:\Projects\VasansiartsAPI\DAL\bin\Debug\EntityFramework.dll
+D:\Projects\VasansiartsAPI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\VasansiartsAPI\DAL\bin\Debug\BAL.pdb
+D:\Projects\VasansiartsAPI\DAL\bin\Debug\Common.pdb
+D:\Projects\VasansiartsAPI\DAL\bin\Debug\EntityFramework.xml
+D:\Projects\VasansiartsAPI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\VasansiartsAPI\DAL\obj\Debug\DAL.dll
+D:\Projects\VasansiartsAPI\DAL\obj\Debug\DAL.pdb
+F:\VasansiartsAPI-master\DAL\bin\Debug\DAL.dll.config
+F:\VasansiartsAPI-master\DAL\bin\Debug\DAL.dll
+F:\VasansiartsAPI-master\DAL\bin\Debug\DAL.pdb
+F:\VasansiartsAPI-master\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\VasansiartsAPI-master\DAL\obj\Debug\DAL.dll
+F:\VasansiartsAPI-master\DAL\obj\Debug\DAL.pdb
+F:\Harminder Work\BbpsAPI\DAL\bin\Debug\DAL.dll.config
+F:\Harminder Work\BbpsAPI\DAL\bin\Debug\DAL.dll
+F:\Harminder Work\BbpsAPI\DAL\bin\Debug\DAL.pdb
+F:\Harminder Work\BbpsAPI\DAL\obj\Debug\DAL.dll
+F:\Harminder Work\BbpsAPI\DAL\obj\Debug\DAL.pdb
+F:\Harminder Work\BbpsAPI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Harminder Work\Scheduler\InstancePay\InstancePay\DAL\bin\Debug\DAL.dll.config
+F:\Harminder Work\Scheduler\InstancePay\InstancePay\DAL\bin\Debug\DAL.dll
+F:\Harminder Work\Scheduler\InstancePay\InstancePay\DAL\bin\Debug\DAL.pdb
+F:\Harminder Work\Scheduler\InstancePay\InstancePay\DAL\obj\Debug\DAL.dll
+F:\Harminder Work\Scheduler\InstancePay\InstancePay\DAL\obj\Debug\DAL.pdb
+F:\Harminder Work\Scheduler\InstancePay\InstancePay\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
